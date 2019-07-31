@@ -1,3 +1,3 @@
 # Sci-Computing
 
-Python科学计算课程笔记
+《Python科学计算》课程笔记
